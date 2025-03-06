@@ -1,0 +1,10 @@
+{
+  "name": "com.yvr.unirx",
+  "version": "0.2.1",
+  "displayName": "YVR UniRx",
+  "description": "This is the UniRx",
+  "unity": "2019.1",
+  "dependencies": {
+    "com.yvr.utilities": "0.15.0"
+  }
+}
